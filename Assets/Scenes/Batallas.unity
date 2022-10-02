@@ -1344,7 +1344,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1950923179}
         m_TargetAssemblyTypeName: ButtonEvent, Assembly-CSharp
-        m_MethodName: Defender
+        m_MethodName: Atacar
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
